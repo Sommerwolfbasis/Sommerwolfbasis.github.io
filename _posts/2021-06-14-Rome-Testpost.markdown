@@ -14,5 +14,5 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 
 Da sött ez es testvideo cho: 
 <video width="320" height="240" controls>
-  <source src="C:\Users\lofru\OneDrive\Dokumente\GitHub\Sommerwolfbasis.github.io\_assets\druck-testvid.mp4" type="video/mp4">
+  <source src="druck-testvid.mov" type="video/mp4">
 </video>
