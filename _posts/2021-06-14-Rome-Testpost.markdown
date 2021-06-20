@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Rome's Testpost"
 date:   2021-06-14 12:22:10 +0200
 categories: jekyll update
