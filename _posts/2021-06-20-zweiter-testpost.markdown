@@ -6,7 +6,6 @@ categories: jekyll update
 ---
 
 
-von Morty
 
 
 Hallihallo, das ist nun mein zweiter testpost

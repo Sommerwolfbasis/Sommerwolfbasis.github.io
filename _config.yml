@@ -24,15 +24,18 @@ email: morty@pfadiafi.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Grand Hotel Falkenhof: Die Website für Infos, News und weiteres!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.grandhotelfalkenstein.ch" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Sommerwolfbasis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-tagging
+
+feed:
+  posts_limit: 20
 
 tag_page_layout: tag_page
 tag_page_dir: tag

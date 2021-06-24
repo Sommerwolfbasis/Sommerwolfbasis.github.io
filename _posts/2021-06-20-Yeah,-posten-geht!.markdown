@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-von Morty
+
 
 
 Hey zusammen, das konvertieren von google forms zu markdown funktioniert jezt, yay!
