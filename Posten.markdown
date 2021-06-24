@@ -4,7 +4,6 @@ title: Posten
 permalink: /Posten/
 ---
 
-# Posten
 
 Wie genau gepostet wird, ist noch in bearbeitung. Unten ist bereits eine oder zwei möglichkeit erklärt.
 
