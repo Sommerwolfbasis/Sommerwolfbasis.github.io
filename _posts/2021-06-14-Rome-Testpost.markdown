@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: posts
 title:  "Rome's Testpost"
 date:   2021-06-14 12:22:10 +0200
 tags: Test Rome Video
 author: Rome
-
+excerpt: false
 
 ---
 
