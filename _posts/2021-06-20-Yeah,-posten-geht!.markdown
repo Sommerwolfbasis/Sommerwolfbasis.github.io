@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Yeah, posten geht!"
 date: 2021-06-20 17:33:27 +0200
 categories: jekyll update

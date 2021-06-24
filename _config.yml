@@ -29,11 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Sommerwolfbasis
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-tagging
-  - jekyll-include-cache
 
 tag_page_layout: tag_page
 tag_page_dir: tag

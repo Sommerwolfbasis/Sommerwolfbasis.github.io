@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: page
 title: Packliste
 permalink: /Packliste/
 ---
