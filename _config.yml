@@ -30,6 +30,7 @@ github_username:  Sommerwolfbasis
 
 # Build settings
 theme: jekyll-theme-minimal
+logo: assets/Falkenhof_Logo.png
 plugins:
   - jekyll-feed
   - jekyll-tagging
