@@ -1,7 +1,7 @@
 ---
-% layout: page
-% title: Posten
-% permalink: /Posten/
+layout: page
+title: Posten
+permalink: /Posten/
 ---
 
 

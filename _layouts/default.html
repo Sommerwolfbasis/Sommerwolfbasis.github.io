@@ -35,7 +35,7 @@
 
           {%- if page_paths -%}
           <nav class="site-nav">
-            <div class="topnav">
+            <div class="site-nav">
               <ul>
                 {%- for path in page_paths -%}
                 {%- assign my_page = site.pages | where: "path", path | first -%}
