@@ -29,23 +29,16 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-
-
       </header>
       <section>
 
-        {{ content }}
-
-      </section>
-      <footer>
-          <p>This site is maintained by <a href="https://github.com/misterEarly">{{ site.author }}</a> via <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         <div class="wrapper">
           {%- assign default_paths = site.pages | map: "path" -%}
           {%- assign page_paths = site.header_pages | default: default_paths -%}
 
           {%- if page_paths -%}
           <nav class="site-nav">
-            <div class="site-nav">
+            <div class="site-nav" >
               <ul>
                 {%- for path in page_paths -%}
                 {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -63,7 +56,13 @@
           </nav>
           {%- endif -%}
         </div>
+      </section>
+      <section>
+        {{ content }}
 
+      </section>
+      <footer>
+        <p>This site is maintained by <a href="https://github.com/misterEarly">{{ site.author }}</a> via <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
 
       </footer>
     </div>

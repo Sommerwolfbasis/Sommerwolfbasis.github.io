@@ -5,14 +5,17 @@
 
 /* unvisited link */
 .site-nav {
+  float: right;
   ul {
 
     margin: 0 0 0;
     padding: 0;
-    width: 0;
-    height: 0px;
+    width: auto;
+    height: 30px;
 
     list-style:none;
+    display: inline;
+
 
     background: #ffffff;
     border-radius: 0;
@@ -23,14 +26,16 @@
 
   li {
     text-align: center;
+
     width: 130px;
     height: auto;
     float: left;
     border: 0;
 
+
   }
 
-  a {
+ a {
     display: block;
     color: #000;
 
@@ -59,12 +64,12 @@
   }
 
   li:first-child a {
-    border-radius: 5px 5px 0 0;
+    border-radius: 5px 0 0 5px;
 
   }
 
   li:last-child a {
-    border-radius: 0 0 5px 5px;
+    border-radius: 0 5px 5px 0;
 
 
   }
