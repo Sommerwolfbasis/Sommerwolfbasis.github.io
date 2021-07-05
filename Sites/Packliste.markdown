@@ -5,10 +5,10 @@ permalink: /Packliste/
 ---
 
 ## Zum Treffpunkt
-- Negatives Covid-19 Schnelltestresultat (Siehe Schutzkonzept)[]. Das digitale Impfzertifikat gilt
+- Negatives Covid-19 Schnelltestresultat (Siehe [Schutzkonzept]({{ "/" | absolute_url }})). Das digitale Impfzertifikat gilt
 ebenfalls.
 - Schutzmaske
-- Gästeblatt (Siehe Beilage)[]
+- Gästeblatt (Siehe [Beilage]({{ "/" | absolute_url }}))
 
 ## Tages- und Wanderrucksack
 - Trinkflasche (es ist Sommer)
