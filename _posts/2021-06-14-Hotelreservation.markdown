@@ -33,7 +33,7 @@ Um eine entspannte Reise zu gewährleisten, organisieren wir eine begleitete Rei
 
 Sie können sich auf einen erlebnisreichen und erholsamen Aufenthalt in der idyllischen Balsthalregion freuen. Sie geniessen dabei die malerische Landschaft, gehen auf erlebnisreiche Wanderungen und geniessen das abwechslungsreiche Hotelprogramm und die exzellente Küche.  
 
-Für eine ordentliche Buchung wären wir froh, wenn Sie am Anreisetag das ausgefüllte Gästeblatt und den gepackten Reisekoffer gemäss Packliste mitführen. Wir bitten Sie, das Covid-19 Schutzkonzept zu lesen und zu befolgen.  
+Für eine ordentliche Buchung wären wir froh, wenn Sie am Anreisetag das ausgefüllte Gästeblatt und den gepackten Reisekoffer gemäss [Packliste](/Packliste/) mitführen. Wir bitten Sie, das Covid-19 Schutzkonzept zu lesen und zu befolgen.  
 
 > Insbesondere muss in den 24 Stunden vor Reisebeginn ein Covid-19 Schnelltest durchgeführt und zum Treffpunkt mitgebracht werden. Sollte das Resultat positiv sein, werden sämtliche Kosten zurückerstattet. Weiteres finden Sie im Schutzkonzept.  
 
