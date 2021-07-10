@@ -48,3 +48,7 @@ Im Namen des Grand Hotel Falkenhof
 
 Angie Lagarde  
 *Bellgirl und Concierge*
+
+
+
+<img src="/assets/grandhotelfalkenhof_werbeflyer.png" alt="flyer"/>

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Brief von J. Barnet"
+date:   2021-05-25 13:37 +0200
+tags: Brief Alexandria Schatz Ägypten
+author: Prof. Dr. J. Barnet
+
+---
+
+![brief](/assets/brief_julia_barnet.png)
