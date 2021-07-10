@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hotelreservation 24. - 31. Juli 2021"
-date:   2021-07-05 12:00:00 +0200
+date:   2021-06-26 12:00:00 +0200
 tags: Reservation Anreise Rückreise
 author: Angie Lagarde
 
