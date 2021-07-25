@@ -7,4 +7,6 @@ author: Sprudel, Keeny und Apallo
 
 ---
 
-<iframe src="https://drive.google.com/file/d/1tlP1VVcI7N4_4bQHckrmHgKwxmy-WhXP/preview" width="auto" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tlP1VVcI7N4_4bQHckrmHgKwxmy-WhXP/preview" width="auto" height="600" allow="autoplay"></iframe>
+
+Danke an die Autoren fürs Filmen und Schneiden!
