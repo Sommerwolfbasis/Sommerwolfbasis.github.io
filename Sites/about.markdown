@@ -9,6 +9,9 @@ permalink: /about/
 ![annerkennung](/assets/tripadvisor_zertifikat.jpg)
 
 
+Leider funktioniert momentan das Websiten-Layout nicht wie gewünscht, weshalb die Permalinks ein wenig unschön sind. Wir bitten um Geduld.
+
+
 Dies ist eine Website für den Sommerwolfbasis 21, erstellt mit Jekyll, um ein Blog-System für den Kurs zu haben.
 
 View the Project on [GitHub](https://github.com/Sommerwolfbasis/Sommerwolfbasis.github.io)  
