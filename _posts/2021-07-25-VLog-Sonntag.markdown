@@ -3,7 +3,7 @@ layout: post
 title:  "VLog Sonntag"
 date:   2021-07-25 19:53 +0200
 tags: VLog Sonntag
-author: Youpi!, Fenrir, Xativia
+author: Youpi!, Fenrir und Xativia
 
 ---
 Hüt lerned ihr die allermeiste Hotelgäst kenne, und bechömed en churze Recap übers Programm.
