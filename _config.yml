@@ -33,7 +33,7 @@ theme: jekyll-theme-minimal
 logo: assets/Falkenhof_Logo.png
 plugins:
   - jekyll-feed
-  - jekyll-tagging
+
 
 feed:
   posts_limit: 20
